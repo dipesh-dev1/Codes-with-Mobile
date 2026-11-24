@@ -27,11 +27,7 @@ cd Codes-with-Mobile
 
 ### Run a program
 
-Open any file and run it with the tool for its language, for example:
-
-```bash
-python filename.py
-```
+Open any file and run it with the tool for its language.
 
 On a phone, you can also open the file in your code editor app and use its built-in run option.
 
